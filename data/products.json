@@ -1,0 +1,839 @@
+[
+  {
+    "id": "sunset-60-4-25",
+    "category": "sparklers",
+    "nameEn": "Sunset",
+    "nameMs": "Sunset",
+    "price": "RM 690",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/Sunset.webp",
+    "videoUrl": "https://helmifireworks.b-cdn.net/Sunset.mp4"
+  },
+  {
+    "id": "Sunset-Besar-42-2-50",
+    "category": "sparklers",
+    "nameEn": "Sunset Besar",
+    "nameMs": "Sunset Besar",
+    "price": "RM 690",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/Sunset%20Besar.webp",
+    "videoUrl": "https://helmifireworks.b-cdn.net/Sunset%20Besar.mp4"
+  },
+  {
+    "id": "sunset-diamond-18cm",
+    "category": "sparklers",
+    "nameEn": "Sunset Diamond 18cm",
+    "nameMs": "Sunset Diamond 18cm",
+    "price": "RM 580",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/Sunset%20Diamond%2018cm.webp",
+    "videoUrl": "https://helmifireworks2.b-cdn.net/diamond%206010.mp4"
+  },
+  {
+    "id": "sunset-diamond",
+    "category": "sparklers",
+    "nameEn": "Sunset Diamond",
+    "nameMs": "Sunset Diamond",
+    "price": "RM 580",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/Sunset%20Diamond.webp",
+    "videoUrl": "https://helmifireworks2.b-cdn.net/diamond%20605.mp4"
+  },
+  {
+    "id": "sunset-royale-35cm",
+    "category": "sparklers",
+    "nameEn": "Sunset Royale 35cm",
+    "nameMs": "Sunset Royale 35cm",
+    "price": "RM 580",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/Sunset%20Royale%2035cm.webp",
+    "videoUrl": "https://helmifireworks2.b-cdn.net/royale%20605.mp4"
+  },
+  {
+    "id": "sunset-royale",
+    "category": "sparklers",
+    "nameEn": "Sunset Royale",
+    "nameMs": "Sunset Royale",
+    "price": "RM 600",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/Sunset%20Royale.webp",
+    "videoUrl": "https://helmifireworks2.b-cdn.net/royale%2010018.mp4"
+  },
+  {
+    "id": "waterfall-sunset",
+    "category": "sparklers",
+    "nameEn": "Waterfall Sunset",
+    "nameMs": "Waterfall Sunset",
+    "price": "RM 580",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/Waterfall%20Sunset.webp",
+    "videoUrl": "https://helmifireworks.b-cdn.net/Waterfall%20Sunset.mp4"
+  },
+  {
+    "id": "sunset-thunder",
+    "category": "sparklers",
+    "nameEn": "Sunset Thunder",
+    "nameMs": "Sunset Thunder",
+    "price": "RM 590",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/Sunset%20Thunder.webp",
+    "videoUrl": "https://helmifireworks.b-cdn.net/Sunset%20Thunder.mp4"
+  },
+  {
+    "id": "sunset-4-colour",
+    "category": "sparklers",
+    "nameEn": "Sunset 4 Colour",
+    "nameMs": "Sunset 4 Colour",
+    "price": "RM 650",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/Sunset%204%20Colour.webp",
+    "videoUrl": "https://helmifireworks.b-cdn.net/Sunset%204%20Colour.mp4"
+  },
+  {
+    "id": "magic-stick-sunset",
+    "category": "sparklers",
+    "nameEn": "Magic Stick Sunset",
+    "nameMs": "Magic Stick Sunset",
+    "price": "RM 580",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/Magic%20Stick%20Sunset.webp",
+    "videoUrl": "https://helmifireworks.b-cdn.net/Magic%20Stick%20Sunset.mp4"
+  },
+  {
+    "id": "asap-colour",
+    "category": "sparklers",
+    "nameEn": "Asap Colour",
+    "nameMs": "Asap Colour",
+    "price": "RM 670",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/Asap%20Colour.webp",
+    "videoUrl": "https://helmifireworks.b-cdn.net/Asap%20Colour.mp4"
+  },
+  {
+    "id": "pop-pop-35",
+    "category": "Pop-Pop",
+    "nameEn": "Pop-Pop",
+    "nameMs": "Pop-Pop",
+    "price": "RM 500",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/Pop-Pop.webp",
+    "videoUrl": "https://grkpyrotechnics.com/assets/videos/1.mp4"
+  },
+  {
+    "id": "pop-pop-25",
+    "category": "Pop-Pop",
+    "nameEn": "Pop-Pop Jumbo",
+    "nameMs": "Pop-Pop Jumbo",
+    "price": "RM 550",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/Pop-Pop%20Jumbo.webp",
+    "videoUrl": "https://grkpyrotechnics.com/assets/videos/1.mp4"
+  },
+  {
+    "id": "pop-pop-20",
+    "category": "Pop-Pop",
+    "nameEn": "Pop-Pop Thunder",
+    "nameMs": "Pop-Pop Thunder",
+    "price": "RM 530",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/Pop-Pop%20Thunder.webp",
+    "videoUrl": "https://grkpyrotechnics.com/assets/videos/1.mp4"
+  },
+  {
+    "id": "party-poppers",
+    "category": "Pop-Pop",
+    "nameEn": "Party Poppers",
+    "nameMs": "Party Poppers",
+    "price": "RM 550",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/Party%20Poppers.webp",
+    "videoUrl": "https://helmifireworks.b-cdn.net/Party%20Poppers.mp4"
+  },
+  {
+    "id": "cili-padi",
+    "category": "kids",
+    "nameEn": "Cili Padi",
+    "nameMs": "Cili Padi",
+    "price": "RM 620",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/Cili%20Padi.webp",
+    "videoUrl": "https://helmifireworks.b-cdn.net/Cili%20Padi.mp4"
+  },
+  {
+    "id": "bee",
+    "category": "kids",
+    "nameEn": "Bee",
+    "nameMs": "Bee",
+    "price": "RM 710",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/15.webp",
+    "videoUrl": "https://helmifireworks2.b-cdn.net/bee.mp4"
+  },
+  {
+    "id": "das-15",
+    "category": "kids",
+    "nameEn": "Das 15",
+    "nameMs": "Das 15",
+    "price": "RM 640",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/Das%2015.webp",
+    "videoUrl": "https://helmifireworks2.b-cdn.net/das15.mp4"
+  },
+  {
+    "id": "das-20",
+    "category": "kids",
+    "nameEn": "Das 20",
+    "nameMs": "Das 20",
+    "price": "RM 600",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/Das%2020.webp",
+    "videoUrl": "https://grkpyrotechnics.com/assets/videos/1.mp4"
+  },
+  {
+    "id": "das-30",
+    "category": "kids",
+    "nameEn": "Das 30",
+    "nameMs": "Das 30",
+    "price": "RM 600",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/Das%2030.webp",
+    "videoUrl": "https://grkpyrotechnics.com/assets/videos/1.mp4"
+  },
+  {
+    "id": "10-kali-das-naga",
+    "category": "kids",
+    "nameEn": "10 Kali Das Naga",
+    "nameMs": "10 Kali Das Naga",
+    "price": "RM 590",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/10%20Shoot%20Das%20Naga.webp",
+    "videoUrl": "https://helmifireworks.b-cdn.net/10%20Kali%20Das%20Naga.mp4"
+  },
+  {
+    "id": "roman-candle-red-green",
+    "category": "kids",
+    "nameEn": "Roman Candle Red&Green Coco",
+    "nameMs": "Roman Candle Red&Green Coco",
+    "price": "RM 600",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/Roman%20Candle%20Red%26Green%20Coco.webp",
+    "videoUrl": "https://grkpyrotechnics.com/assets/videos/1.mp4"
+  },
+  {
+    "id": "mancis-double-bang",
+    "category": "kids",
+    "nameEn": "Mancis (Double Bang)",
+    "nameMs": "Mancis (Double Bang)",
+    "price": "RM 600",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/mancis.webp",
+    "videoUrl": "https://grkpyrotechnics.com/assets/videos/1.mp4"
+  },
+  {
+    "id": "gasing-tiga-warna",
+    "category": "kids",
+    "nameEn": "Gasing Tiga Warna",
+    "nameMs": "Gasing Tiga Warna",
+    "price": "RM 720",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/Gasing%20Tiga%20Warna.webp",
+    "videoUrl": "http://helmifireworks2.b-cdn.net/video%20grk%202%20(1).mp4"
+  },
+  {
+    "id": "gasing-bullet",
+    "category": "kids",
+    "nameEn": "Gasing Bullet",
+    "nameMs": "Gasing Bullet",
+    "price": "RM 720",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/Gasing%20Bullet.webp",
+    "videoUrl": "https://grkpyrotechnics.com/assets/videos/1.mp4"
+  },
+  {
+    "id": "gasing-tali",
+    "category": "kids",
+    "nameEn": "Gasing Tali",
+    "nameMs": "Gasing Tali",
+    "price": "RM 720",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/Gasing%20Tali.webp",
+    "videoUrl": "https://helmifireworks.b-cdn.net/Gasing%20Tali.mp4"
+  },
+  {
+    "id": "telur-naga-200-50",
+    "category": "kids",
+    "nameEn": "Telur Naga – 50pcs",
+    "nameMs": "Telur Naga – 50pcs",
+    "price": "RM 760",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/22.webp",
+    "videoUrl": "https://helmifireworks2.b-cdn.net/naga200.mp4"
+  },
+  {
+    "id": "telur-naga-24-24-6",
+    "category": "kids",
+    "nameEn": "Telur Naga – 24",
+    "nameMs": "Telur Naga – 24",
+    "price": "RM 560",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/23.webp",
+    "videoUrl": "https://grkpyrotechnics.com/assets/videos/1.mp4"
+  },
+  {
+    "id": "telur-naga-72-12-12",
+    "category": "kids",
+    "nameEn": "Telur Naga – 72",
+    "nameMs": "Telur Naga – 72",
+    "price": "RM 700",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/24.webp",
+    "videoUrl": "https://helmifireworks.b-cdn.net/Telur%20Naga%20%E2%80%93%2072.mp4"
+  },
+  {
+    "id": "telur-naga-mega",
+    "category": "kids",
+    "nameEn": "Telur Naga (Mega)",
+    "nameMs": "Telur Naga (Mega)",
+    "price": "RM 660",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/25.webp",
+    "videoUrl": "https://grkpyrotechnics.com/assets/videos/1.mp4"
+  },
+  {
+    "id": "dragon-3-minute",
+    "category": "kids",
+    "nameEn": "Dragon 3 Minute",
+    "nameMs": "Dragon 3 Minute",
+    "price": "RM 580",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/Naga%203%20Minit.webp",
+    "videoUrl": "https://grkpyrotechnics.com/assets/videos/1.mp4"
+  },
+  {
+    "id": "jellyfish-combine",
+    "category": "kids",
+    "nameEn": "Jellyfish (Combine) S Effect",
+    "nameMs": "Jellyfish (Combine) S Effect",
+    "price": "RM 540",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/28.webp",
+    "videoUrl": "https://helmifireworks.b-cdn.net/Jellyfish%20%28Combine%29%20S%20Effect.mp4"
+  },
+  {
+    "id": "jellyfish-combine1",
+    "category": "kids",
+    "nameEn": "Jellyfish (Combine) Rose",
+    "nameMs": "Jellyfish (Combine) Rose",
+    "price": "RM 540",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/26.webp",
+    "videoUrl": "https://helmifireworks.b-cdn.net/Jellyfish%20%28Combine%29%20Rose.mp4"
+  },
+  {
+    "id": "jellyfish-combine2",
+    "category": "kids",
+    "nameEn": "Jellyfish (Combine) 5 Colours",
+    "nameMs": "Jellyfish (Combine) 5 Colours",
+    "price": "RM 540",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/27.webp",
+    "videoUrl": "https://helmifireworks.b-cdn.net/Jellyfish%20%28Combine%29%205%20Colours.mp4"
+  },
+  {
+    "id": "fountain-flower",
+    "category": "fountains",
+    "nameEn": "Fountain Flower (Fa Cai Shu)",
+    "nameMs": "Fountain Flower (Fa Cai Shu)",
+    "price": "RM 650",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/Fountain%20Flower%20%28Fa%20Cai%20Shu%29.webp",
+    "videoUrl": "https://helmifireworks.b-cdn.net/Fountain%20Flower%20%28Fa%20Cai%20Shu%29.mp4"
+  },
+  {
+    "id": "starry-fountain",
+    "category": "fountains",
+    "nameEn": "Starry Fountain",
+    "nameMs": "Starry Fountain",
+    "price": "RM 630",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/Starry%20Fountain.webp",
+    "videoUrl": "https://helmifireworks.b-cdn.net/Starry%20Fountain.mp4"
+  },
+  {
+    "id": "fountain-triangle",
+    "category": "fountains",
+    "nameEn": "Fountain Triangle",
+    "nameMs": "Fountain Triangle",
+    "price": "RM 600",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/Fountain%20Triangle.webp",
+    "videoUrl": "https://helmifireworks.b-cdn.net/Fountain%20Triangle.mp4"
+  },
+  {
+    "id": "fountain-pokok-kaya",
+    "category": "fountains",
+    "nameEn": "Fountain Pokok Kaya Besar",
+    "nameMs": "Fountain Pokok Kaya Besar",
+    "price": "RM 680",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/Fountain%20Pokok%20Kaya%20Besar.webp",
+    "videoUrl": "https://helmifireworks.b-cdn.net/Fountain%20Pokok%20Kaya%20Besar.mp4"
+  },
+  {
+    "id": "small-fountain-peacock",
+    "category": "fountains",
+    "nameEn": "Small Fountain Peacock",
+    "nameMs": "Small Fountain Peacock",
+    "price": "RM 630",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/Small%20Fountain%20Peacock.webp",
+    "videoUrl": "https://helmifireworks.b-cdn.net/Small%20Fountain%20Peacock.mp4"
+  },
+  {
+    "id": "fountain-peacock-gasing",
+    "category": "fountains",
+    "nameEn": "Fountain Peacock With Gasing",
+    "nameMs": "Fountain Peacock With Gasing",
+    "price": "RM 530",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/Fountain%20Peacock%20With%20Gasing.webp",
+    "videoUrl": "https://helmifireworks2.b-cdn.net/fountain%20peacock%20gasin.mp4"
+  },
+  {
+    "id": "fountain-peacock-grk",
+    "category": "fountains",
+    "nameEn": "Fountain Peacock GRK",
+    "nameMs": "Fountain Peacock GRK",
+    "price": "RM 530",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/Fountain%20Peacock%20GRK.webp",
+    "videoUrl": "https://helmifireworks2.b-cdn.net/fountain%20peacock%20GRK.mp4"
+  },
+  {
+    "id": "fountain-peacock-1",
+    "category": "fountains",
+    "nameEn": "Fountain Peacock",
+    "nameMs": "Fountain Peacock",
+    "price": "RM 530",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/Fountain%20Peacock%20GRK.webp",
+    "videoUrl": "https://grkpyrotechnics.com/assets/videos/1.mp4"
+  },
+  {
+    "id": "xxl-fountain-peacock",
+    "category": "fountains",
+    "nameEn": "XXL Fountain Peacock",
+    "nameMs": "XXL Fountain Peacock",
+    "price": "RM 630",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/XXL%20Fountain%20Peacock.webp",
+    "videoUrl": "https://grkpyrotechnics.com/assets/videos/1.mp4"
+  },
+  {
+    "id": "fountain-volcano",
+    "category": "fountains",
+    "nameEn": "Fountain Volcano",
+    "nameMs": "Fountain Volcano",
+    "price": "RM 610",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/Fountain%20Volcano.webp",
+    "videoUrl": "https://helmifireworks.b-cdn.net/Fountain%20Volcano.mp4"
+  },
+  {
+    "id": "open-door-fountain",
+    "category": "fountains",
+    "nameEn": "Open Door Fountain",
+    "nameMs": "Open Door Fountain",
+    "price": "RM 500",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/Open%20Door%20Fountain.webp",
+    "videoUrl": "https://helmifireworks.b-cdn.net/Open%20Door%20Fountain.mp4"
+  },
+  {
+    "id": "shake-fountain",
+    "category": "fountains",
+    "nameEn": "Shake Fountain",
+    "nameMs": "Shake Fountain",
+    "price": "RM 550",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/Shake%20Fountain.webp",
+    "videoUrl": "https://helmifireworks.b-cdn.net/Shake%20Fountain.mp4"
+  },
+  {
+    "id": "jingxishike-fountain",
+    "category": "fountains",
+    "nameEn": "Jingxishike Fountain",
+    "nameMs": "Jingxishike Fountain",
+    "price": "RM 630",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/Jingxishike%20Fountain.webp",
+    "videoUrl": "https://helmifireworks.b-cdn.net/Jingxishike%20Fountain.mp4"
+  },
+  {
+    "id": "wings-angel",
+    "category": "fountains",
+    "nameEn": "Wings Angel",
+    "nameMs": "Wings Angel",
+    "price": "RM 540",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/Wings%20Angel.webp",
+    "videoUrl": "https://helmifireworks.b-cdn.net/Wings%20Angel.mp4"
+  },
+  {
+    "id": "golden-wall",
+    "category": "fountains",
+    "nameEn": "Golden Coloured Wall",
+    "nameMs": "Golden Coloured Wall",
+    "price": "RM 540",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/Golden%20Coloured%20Wall.webp",
+    "videoUrl": "https://helmifireworks.b-cdn.net/Golden%20Coloured%20Wall.mp4"
+  },
+  {
+    "id": "smoke-5-colors",
+    "category": "fountains",
+    "nameEn": "Smoke (5 Colors)",
+    "nameMs": "Smoke (5 Colors)",
+    "price": "RM 630",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/Smoke%20%285%20Colors%29.webp",
+    "videoUrl": "https://helmifireworks.b-cdn.net/Smoke%20%285%20Colors%29.mp4"
+  },
+  {
+    "id": "silver-rain-kecil",
+    "category": "single-shots",
+    "nameEn": "Silver Rain Kecil",
+    "nameMs": "Silver Rain Kecil",
+    "price": "RM 580",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/Silver%20Rain%20Kecil.webp",
+    "videoUrl": "https://helmifireworks.b-cdn.net/Silver%20Rain%20Kecil.mp4"
+  },
+  {
+    "id": "rocket-tikus",
+    "category": "rockets",
+    "nameEn": "Rocket Tikus 50 Shoot",
+    "nameMs": "Rocket Tikus 50 Shoot",
+    "price": "RM 580",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/Rocket%20Tikus%2050%20Shoot.webp",
+    "videoUrl": "https://helmifireworks.b-cdn.net/Rocket%20Tikus%2050%20Shoot.mp4"
+  },
+  {
+    "id": "flying-fountain-100",
+    "category": "rockets",
+    "nameEn": "Flying Fountain 100 Shoot",
+    "nameMs": "Flying Fountain 100 Shoot",
+    "price": "RM 650",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/Flying%20Fountain%20100%20Shoot.webp",
+    "videoUrl": "https://grkpyrotechnics.com/assets/videos/1.mp4"
+  },
+  {
+    "id": "happiness-flower-100-sea",
+    "category": "rockets",
+    "nameEn": "Happiness Flower 100 Sea",
+    "nameMs": "Happiness Flower 100 Sea",
+    "price": "RM 630",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/Happiness%20Flower%20100%20Sea.webp",
+    "videoUrl": "https://helmifireworks.b-cdn.net/Happiness%20Flower%20100%20Sea.mp4"
+  },
+  {
+    "id": "moon-rocket-travel",
+    "category": "rockets",
+    "nameEn": "Moon Rocket Travel",
+    "nameMs": "Moon Rocket Travel",
+    "price": "RM 580",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/Moon%20Rocket%20Travel.webp",
+    "videoUrl": "https://helmifireworks2.b-cdn.net/MOON%20ROKET.mp4"
+  },
+  {
+    "id": "moon-rocket-b",
+    "category": "rockets",
+    "nameEn": "Moon Rocket B",
+    "nameMs": "Moon Rocket B",
+    "price": "RM 580",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/Moon%20Rocket%20B.webp",
+    "videoUrl": "https://grkpyrotechnics.com/assets/videos/1.mp4"
+  },
+  {
+    "id": "howling-rocket-wolf",
+    "category": "rockets",
+    "nameEn": "Howling Rocket (Wolf)",
+    "nameMs": "Howling Rocket (Wolf)",
+    "price": "RM 610",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/Howling%20Rocket%20%28Wolf%29.webp",
+    "videoUrl": "https://grkpyrotechnics.com/assets/videos/1.mp4"
+  },
+  {
+    "id": "thunder-clap",
+    "category": "rockets",
+    "nameEn": "Thunder Clap",
+    "nameMs": "Thunder Clap",
+    "price": "RM 790",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/Thunder%20Clap.webp",
+    "videoUrl": "https://helmifireworks2.b-cdn.net/thunderclap.mp4"
+  },
+  {
+    "id": "flash-strobe-rocket",
+    "category": "rockets",
+    "nameEn": "Flash Strobe Rocket",
+    "nameMs": "Flash Strobe Rocket",
+    "price": "RM 850",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/Flash%20Strobe%20Rocket.webp",
+    "videoUrl": "https://helmifireworks.b-cdn.net/0949.mp4"
+  },
+  {
+    "id": "nuclear-flash-strobe",
+    "category": "rockets",
+    "nameEn": "Nuclear Flash Strobe Rocket",
+    "nameMs": "Nuclear Flash Strobe Rocket",
+    "price": "RM 900",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/Nuclear%20Flash%20Strobe%20Rocket.webp",
+    "videoUrl": "https://helmifireworks.b-cdn.net/0949%20(2).mp4"
+  },
+  {
+    "id": "osama-rocket-7",
+    "category": "rockets",
+    "nameEn": "Osama Rocket 7",
+    "nameMs": "Osama Rocket 7",
+    "price": "RM 900",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/Osama%20Rocket%207.webp",
+    "videoUrl": "https://grkpyrotechnics.com/assets/videos/1.mp4"
+  },
+  {
+    "id": "red-dragon-8-kaki-580",
+    "category": "red-dragon",
+    "nameEn": "8 Kaki - 580 PCS (High Grade)",
+    "nameMs": "8 Kaki - 580 PCS (High Grade)",
+    "price": "RM 470",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/8%20Kaki%20-%20580%20PCS%20%28High%20Grade%29.webp",
+    "videoUrl": "https://helmifireworks.b-cdn.net/8%20KAKI.mp4"
+  },
+  {
+    "id": "red-dragon-88-kaki-red",
+    "category": "red-dragon",
+    "nameEn": "88 Kaki - Red Colour (Bom & Box)",
+    "nameMs": "88 Kaki - Red Colour (Bom & Box)",
+    "price": "RM 670",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/88%20Kaki%20-%20Red%20Colour%20%28Bom%20%26%20Box%29.webp",
+    "videoUrl": "https://grkpyrotechnics.com/assets/videos/1.mp4"
+  },
+  {
+    "id": "red-dragon-8-kaki-rose",
+    "category": "red-dragon",
+    "nameEn": "8 Kaki - Rose 1.0 Colour (Bom)",
+    "nameMs": "8 Kaki - Rose 1.0 Colour (Bom)",
+    "price": "RM 550",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/8%20Kaki%20-%20Rose%201.0%20Colour%20%28Bom%29.webp",
+    "videoUrl": "https://helmifireworks.b-cdn.net/8%20Kaki%20-%20Rose%201.0%20Colour%20%28Bom%29.mp4"
+  },
+  {
+    "id": "red-dragon-88-kaki-rose",
+    "category": "red-dragon",
+    "nameEn": "88 Kaki - Rose Colour (Bom & Box)",
+    "nameMs": "88 Kaki - Rose Colour (Bom & Box)",
+    "price": "RM 670",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/88%20Kaki%20-%20Rose%20Colour%20%28Bom%20%26%20Box%29.webp",
+    "videoUrl": "https://grkpyrotechnics.com/assets/videos/1.mp4"
+  },
+  {
+    "id": "88-kaki-7-colours",
+    "category": "red-dragon",
+    "nameEn": "88 Kaki - 7 colours",
+    "nameMs": "88 Kaki - 7 colours",
+    "price": "RM 470",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/88%20Kaki%20-%207%20colours.webp",
+    "videoUrl": "https://helmifireworks.b-cdn.net/88%20Kaki%20-%207%20colours.mp4"
+  },
+  {
+    "id": "108-kaki-rose-colours",
+    "category": "red-dragon",
+    "nameEn": "108 Kaki - Rose",
+    "nameMs": "108 Kaki - Rose",
+    "price": "RM 700",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/108%20Kaki%20-%20Rose.webp",
+    "videoUrl": "https://helmifireworks.b-cdn.net/108%20Kaki%20-%20Rose.mp4"
+  },
+  {
+    "id": "108-kaki-gold-colours",
+    "category": "red-dragon",
+    "nameEn": "108 Kaki - Gold",
+    "nameMs": "108 Kaki - Gold",
+    "price": "RM 700",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/108%20Kaki%20-%20Gold.webp",
+    "videoUrl": "https://grkpyrotechnics.com/assets/videos/6.mp4"
+  },
+  {
+    "id": "red-dragon-8-kaki-gold",
+    "category": "red-dragon",
+    "nameEn": "8 Kaki - Gold 1.0 Colour (Bom)",
+    "nameMs": "8 Kaki - Gold 1.0 Colour (Bom)",
+    "price": "RM 560",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/8%20Kaki%20-%20Gold%201.0%20Colour%20%28Bom%29.webp",
+    "videoUrl": "https://helmifireworks.b-cdn.net/8%20Kaki%20-%20Gold%201.0%20Colour%20%28Bom%29.mp4"
+  },
+  {
+    "id": "red-dragon-18-kaki-red",
+    "category": "red-dragon",
+    "nameEn": "18 Kaki - Red (Bom)",
+    "nameMs": "18 Kaki - Red (Bom)",
+    "price": "RM 580",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/18%20Kaki%20-%20Red%20%28Bom%29.webp",
+    "videoUrl": "https://grkpyrotechnics.com/assets/videos/1.mp4"
+  },
+  {
+    "id": "38-red-dragon",
+    "category": "red-dragon",
+    "nameEn": "38 Kaki - Red Colour (Bom)",
+    "nameMs": "38 Kaki - Red Colour (Bom)",
+    "price": "RM 580",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/38%20Kaki%20-%20Red%20Colour%20%28Bom%29.webp",
+    "videoUrl": "https://grkpyrotechnics.com/assets/videos/1.mp4"
+  },
+  {
+    "id": "8-shoot-roman-candle",
+    "category": "merdeka-fireworks",
+    "nameEn": "8 Shoot Roman Candle",
+    "nameMs": "8 Shoot Roman Candle",
+    "price": "RM 730",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/8%20Shoot%20Roman%20Candle.webp",
+    "videoUrl": "https://grkpyrotechnics.com/assets/videos/1.mp4"
+  },
+  {
+    "id": "0416-merdeka",
+    "category": "merdeka-fireworks",
+    "nameEn": "0416 Merdeka Shoot",
+    "nameMs": "0416 Merdeka Shoot",
+    "price": "RM 610",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/0416%20Merdeka%20Shoot.webp",
+    "videoUrl": "https://helmifireworks.b-cdn.net/0416%20Merdeka%20Shoot.mp4"
+  },
+  {
+    "id": "0425-merdeka",
+    "category": "merdeka-fireworks",
+    "nameEn": "0425 Merdeka Shoot",
+    "nameMs": "0425 Merdeka Shoot",
+    "price": "RM 530",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/0425%20Merdeka%20Shoot.webp",
+    "videoUrl": "https://helmifireworks.b-cdn.net/0425%20Merdeka%20Shoot.mp4"
+  },
+  {
+    "id": "0436-merdeka",
+    "category": "merdeka-fireworks",
+    "nameEn": "0436 Merdeka Shoot",
+    "nameMs": "0436 Merdeka Shoot",
+    "price": "RM 610",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/0436%20Merdeka%20Shoot.webp",
+    "videoUrl": "https://helmifireworks.b-cdn.net/0436%20Merdeka%20Shoot.mp4"
+  },
+  {
+    "id": "0449-merdeka",
+    "category": "merdeka-fireworks",
+    "nameEn": "0449 Merdeka Shoot",
+    "nameMs": "0449 Merdeka Shoot",
+    "price": "RM 530",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/0449%20Merdeka%20Shoot.webp",
+    "videoUrl": "https://helmifireworks.b-cdn.net/0449%20Merdeka%20Shoot.mp4"
+  },
+  {
+    "id": "04100-merdeka",
+    "category": "merdeka-fireworks",
+    "nameEn": "04100 Merdeka Shoot",
+    "nameMs": "04100 Merdeka Shoot",
+    "price": "RM 550",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/04100%20Merdeka%20Shoot.webp",
+    "videoUrl": "https://helmifireworks.b-cdn.net/04100%20Merdeka%20Shoot.mp4"
+  },
+  {
+    "id": "04138-merdeka",
+    "category": "merdeka-fireworks",
+    "nameEn": "04138 Merdeka Shoot",
+    "nameMs": "04138 Merdeka Shoot",
+    "price": "RM 530",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/04138%20Merdeka%20Shoot.webp",
+    "videoUrl": "https://helmifireworks.b-cdn.net/04138%20Merdeka%20Shoot.mp4"
+  },
+  {
+    "id": "0588-merdeka",
+    "category": "merdeka-fireworks",
+    "nameEn": "0588 Merdeka Shoot",
+    "nameMs": "0588 Merdeka Shoot",
+    "price": "RM 600",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/0588%20Merdeka%20Shoot.webp",
+    "videoUrl": "https://helmifireworks.b-cdn.net/0588%20Merdeka%20Shoot.mp4"
+  },
+  {
+    "id": "05138-merdeka",
+    "category": "merdeka-fireworks",
+    "nameEn": "05138 Merdeka Shoot abc",
+    "nameMs": "05138 Merdeka Shoot abc",
+    "price": "RM 600",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/05138%20Merdeka%20Shoot%203_1.webp",
+    "videoUrl": "https://helmifireworks.b-cdn.net/05138%20Merdeka%20Shoot%20abc.mp4"
+  },
+  {
+    "id": "0736-merdeka",
+    "category": "merdeka-fireworks",
+    "nameEn": "0736 Wolf Merdeka Shoot",
+    "nameMs": "0736 Wolf Merdeka Shoot",
+    "price": "RM 600",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/0736%20Wolf%20Merdeka%20Shoot.webp",
+    "videoUrl": "https://helmifireworks.b-cdn.net/0736%20Wolf%20Merdeka%20Shoot.mp4"
+  },
+  {
+    "id": "07138-v-merdeka",
+    "category": "merdeka-fireworks",
+    "nameEn": "07138 VShape Merdeka Shoot",
+    "nameMs": "07138 VShape Merdeka Shoot",
+    "price": "RM 600",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/07138%20VShape%20Merdeka%20Shoot.webp",
+    "videoUrl": "https://helmifireworks.b-cdn.net/07138%20VShape%20Merdeka%20Shoot.mp4"
+  },
+  {
+    "id": "0949-merdeka",
+    "category": "merdeka-fireworks",
+    "nameEn": "0949 Merdeka Shoot",
+    "nameMs": "0949 Merdeka Shoot",
+    "price": "RM 600",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/0949%20Merdeka%20Shoot.webp",
+    "videoUrl": "https://helmifireworks.b-cdn.net/0949%20Merdeka%20Shoot.mp4"
+  },
+  {
+    "id": "0966-merdeka",
+    "category": "merdeka-fireworks",
+    "nameEn": "0966 Merdeka Shoot",
+    "nameMs": "0966 Merdeka Shoot",
+    "price": "RM 600",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/0966%20Merdeka%20Shoot.webp",
+    "videoUrl": "https://helmifireworks.b-cdn.net/0966%20Merdeka%20Shoot.mp4"
+  },
+  {
+    "id": "9138-merdeka-shoot-a",
+    "category": "merdeka-fireworks",
+    "nameEn": "9138 Merdeka Shoot A",
+    "nameMs": "9138 Merdeka Shoot A",
+    "price": "RM 630",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/9138%20Merdeka%20Shoot%20A.webp",
+    "videoUrl": "https://helmifireworks.b-cdn.net/9138%20Merdeka%20Shoot%20A.mp4"
+  },
+  {
+    "id": "9138-merdeka-shoot-b",
+    "category": "merdeka-fireworks",
+    "nameEn": "9138 Merdeka Shoot B",
+    "nameMs": "9138 Merdeka Shoot B",
+    "price": "RM 630",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/9138%20Merdeka%20Shoot%20B.webp",
+    "videoUrl": "https://helmifireworks.b-cdn.net/9138%20Merdeka%20Shoot%20B.mp4"
+  },
+  {
+    "id": "9138-merdeka-shoot-c",
+    "category": "merdeka-fireworks",
+    "nameEn": "9138 Merdeka Shoot C",
+    "nameMs": "9138 Merdeka Shoot C",
+    "price": "RM 630",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/9138%20Merdeka%20Shoot%20C.webp",
+    "videoUrl": "https://helmifireworks.b-cdn.net/9138%20Merdeka%20Shoot%20C.mp4"
+  },
+  {
+    "id": "9138-merdeka-shoot-d",
+    "category": "merdeka-fireworks",
+    "nameEn": "9138 Merdeka Shoot D",
+    "nameMs": "9138 Merdeka Shoot D",
+    "price": "RM 630",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/9138%20Merdeka%20Shoot%20D.webp",
+    "videoUrl": "https://helmifireworks.b-cdn.net/9138%20Merdeka%20Shoot%20D.mp4"
+  },
+  {
+    "id": "09128-merdeka",
+    "category": "merdeka-fireworks",
+    "nameEn": "09128 Merdeka Shoot",
+    "nameMs": "09128 Merdeka Shoot",
+    "price": "RM 630",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/09128%20Merdeka%20Shoot.webp",
+    "videoUrl": "https://helmifireworks.b-cdn.net/09128%20Merdeka%20Shoot.mp4"
+  },
+  {
+    "id": "09138-merdeka-fanshape",
+    "category": "merdeka-fireworks",
+    "nameEn": "09138 Fans Shape Merdeka Shoot",
+    "nameMs": "09138 Fans Shape Merdeka Shoot",
+    "price": "RM 630",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/9138%20fan%20shape%20mix.webp",
+    "videoUrl": "https://helmifireworks.b-cdn.net/video%20grk%202.mp4"
+  },
+  {
+    "id": "1149-merdeka",
+    "category": "merdeka-fireworks",
+    "nameEn": "1149 Merdeka Shoot",
+    "nameMs": "1149 Merdeka Shoot",
+    "price": "RM 700",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/1149%20Merdeka%20Shoot.webp",
+    "videoUrl": "https://helmifireworks.b-cdn.net/1149%20Merdeka%20Shoot.mp4"
+  },
+  {
+    "id": "11138-merdeka-shoot",
+    "category": "merdeka-fireworks",
+    "nameEn": "11138 Merdeka Shoot Galaxy",
+    "nameMs": "11138 Merdeka Shoot Galaxy",
+    "price": "RM 630",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/11138%20Merdeka%20Shoot%20Galaxy.webp",
+    "videoUrl": "https://helmifireworks.b-cdn.net/11138%20Merdeka%20Shoot%20Galaxy.mp4"
+  },
+  {
+    "id": "11138-merdeka-fanshape2",
+    "category": "merdeka-fireworks",
+    "nameEn": "11138 Fans Shape Merdeka Shoot",
+    "nameMs": "11138 Fans Shape Merdeka Shoot",
+    "price": "RM 630",
+    "imageUrl": "https://helmifireworks2.b-cdn.net/GAMBAR%20GRK/11138%20Fans%20Shape%20Merdeka%20Shoot.webp",
+    "videoUrl": "https://helmifireworks.b-cdn.net/11138%20Fans%20Shape%20Merdeka%20Shoot.mp4"
+  }
+]

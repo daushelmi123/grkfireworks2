@@ -1,0 +1,20 @@
+# GRK Fireworks
+
+> Licensed fireworks and firecracker supplier in Malaysia (100% PDRM licensed). Wholesale catalog of 93 products — sparklers, fountains, rockets, firecrackers and celebration cakes — with nationwide delivery from Johor Bahru. Also runs a fireworks dealer program with auto-generated Surat Lantikan (agent appointment letter) and PDRM permit documents in minutes.
+
+Site is bilingual: English at root paths, Bahasa Melayu under /ms.
+
+## Key pages
+
+- [Product catalog](https://grkfireworks.com/products): 93 fireworks products with wholesale prices in MYR
+- [Wholesale / start a business](https://grkfireworks.com/wholesale): dealer program from RM500 capital
+- [Surat Lantikan generator](https://grkfireworks.com/suratlantikan): auto-fill PDRM permit documents (Surat Lantikan, IPD & PBT forms)
+- [Fireworks permit guide](https://grkfireworks.com/permit-guide): how to apply for a PDRM fireworks permit in Malaysia — eligibility, documents, timeline
+- [Contact](https://grkfireworks.com/contact): WhatsApp +60 13-734 0415, Johor Bahru warehouse
+
+## Facts
+
+- Company: GRK Fireworks, SSM 202101027988 (1428288-H)
+- Location: 10, Jalan Pelepas 4/2, Taman Perindustrian Gelang Patah, 81550 Johor Bahru, Johor, Malaysia
+- Fireworks in Malaysia legally require a PDRM permit; GRK provides Surat Lantikan for dealer permit applications
+- Product categories: sparklers, pop-pop, kids fireworks, fountains, single shots, rockets, red dragon firecrackers, celebration cakes (merdeka shoots)
