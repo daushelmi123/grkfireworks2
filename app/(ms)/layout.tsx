@@ -26,6 +26,15 @@ export const metadata: Metadata = {
       "max-snippet": -1,
     },
   },
+  openGraph: {
+    type: "website",
+    siteName: "GRK Fireworks",
+    images: [{ url: "/og.png", width: 1200, height: 630, alt: "GRK Fireworks / GRK Pyrotechnics" }],
+  },
+  twitter: {
+    card: "summary_large_image",
+    images: ["/og.png"],
+  },
 };
 
 /** Root layout untuk semua route /ms/* — <html lang="ms"> */

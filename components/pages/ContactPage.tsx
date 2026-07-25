@@ -1,8 +1,8 @@
-import { MapPin, Phone, Mail, Clock, MessageCircle } from "lucide-react";
+import { MapPin, Phone, Mail, Clock, MessageCircle, Navigation } from "lucide-react";
 import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
 import { getDict } from "@/lib/dict";
-import { WHATSAPP, type Lang } from "@/lib/seo";
+import { WHATSAPP, GBP_MAP_URL, type Lang } from "@/lib/seo";
 
 export default function ContactPage({ lang }: { lang: Lang }) {
   const dict = getDict(lang);
@@ -40,6 +40,15 @@ export default function ContactPage({ lang }: { lang: Lang }) {
               </span>
             </li>
           </ul>
+          <a
+            href={GBP_MAP_URL}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="mt-5 inline-flex items-center gap-2 bg-gold text-gold-foreground font-bold px-5 py-3 rounded-xl hover:brightness-110"
+          >
+            <Navigation className="w-4 h-4" />
+            {lang === "ms" ? "Cari Kami di Google Maps" : "Find Us on Google Maps"}
+          </a>
         </div>
 
         <div className="space-y-4">

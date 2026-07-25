@@ -39,7 +39,14 @@ export function pageMeta(
         "x-default": urlFor("en", path),
       },
     },
-    openGraph: { title, description, url: self, siteName: "GRK Fireworks" },
+    openGraph: {
+      title,
+      description,
+      url: self,
+      siteName: "GRK Fireworks",
+      images: [{ url: "/og.png", width: 1200, height: 630, alt: "GRK Fireworks" }],
+    },
+    twitter: { card: "summary_large_image", images: ["/og.png"] },
   };
 }
 
@@ -56,14 +63,27 @@ export function breadcrumbJsonLd(items: Array<{ name: string; url: string }>) {
   };
 }
 
+/** Pautan Google Business Profile / Maps (GRK Pyrotechnics). */
+export const GBP_MAP_URL = "https://share.google/ZFhCyEqHfRt5nmxmM";
+
+/**
+ * LocalBusiness (Store) schema. Jambatani jenama laman "GRK Fireworks"
+ * dengan nama rasmi/GBP "GRK Pyrotechnics" melalui legalName + alternateName
+ * + sameAs, supaya Google gabungkan menjadi satu entiti (bukan dua bisnes).
+ */
 export function organizationJsonLd() {
   return {
     "@context": "https://schema.org",
-    "@type": "Organization",
+    "@type": "Store",
+    "@id": `${SITE_URL}/#business`,
     name: "GRK Fireworks",
+    legalName: "GRK Pyrotechnics",
+    alternateName: "GRK Pyrotechnics",
     url: SITE_URL,
     telephone: "+60137340415",
     email: "info@grkfireworks.com",
+    image: `${SITE_URL}/icon.png`,
+    priceRange: "RM",
     address: {
       "@type": "PostalAddress",
       streetAddress: "10, Jalan Pelepas 4/2, Taman Perindustrian Gelang Patah",
@@ -72,5 +92,22 @@ export function organizationJsonLd() {
       addressRegion: "Johor",
       addressCountry: "MY",
     },
+    openingHoursSpecification: [
+      {
+        "@type": "OpeningHoursSpecification",
+        dayOfWeek: [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+        ],
+        opens: "09:00",
+        closes: "18:00",
+      },
+    ],
+    hasMap: GBP_MAP_URL,
+    sameAs: [GBP_MAP_URL],
   };
 }

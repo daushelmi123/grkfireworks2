@@ -5,7 +5,7 @@ import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
 import { getDict } from "@/lib/dict";
 import { WHATSAPP, pathFor, urlFor, breadcrumbJsonLd, type Lang } from "@/lib/seo";
-import { categoryLabel, productName, type Product } from "@/lib/products";
+import { categoryLabel, productName, productDescription, type Product } from "@/lib/products";
 
 export default function ProductDetailPage({
   lang,
@@ -17,13 +17,18 @@ export default function ProductDetailPage({
   const dict = getDict(lang);
   const t = dict.product;
   const name = productName(product, lang);
+  const description = productDescription(product, lang);
 
   const productSchema = {
     "@context": "https://schema.org",
     "@type": "Product",
     name,
+    description,
     image: product.imageUrl,
     category: categoryLabel(product.category, "en"),
+    // brand memuaskan syarat "global identifier" GSC (brand ATAU gtin).
+    // Bunga api takde GTIN/barcode, jadi guna brand.
+    brand: { "@type": "Brand", "name": "GRK Fireworks" },
     offers: {
       "@type": "Offer",
       price: product.price.replace(/[^\d.]/g, ""),
@@ -82,7 +87,11 @@ export default function ProductDetailPage({
             </p>
             <h1 className="text-3xl md:text-4xl font-extrabold mb-4">{name}</h1>
             <p className="text-sm text-muted-foreground mb-1">{t.price}</p>
-            <p className="text-3xl font-bold text-gold mb-8">{product.price}</p>
+            <p className="text-3xl font-bold text-gold mb-5">{product.price}</p>
+
+            <p className="text-sm text-muted-foreground leading-relaxed mb-8">
+              {description}
+            </p>
 
             <a
               href={`${WHATSAPP}?text=${waText}`}
