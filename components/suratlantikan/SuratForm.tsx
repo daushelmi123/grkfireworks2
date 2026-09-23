@@ -20,6 +20,13 @@ interface Ipd {
 
 const IPDS = ipdData as Ipd[];
 
+// Pilihan perayaan -> label utk tab (tanpa tahun), name utk dalam surat (dgn tahun + noktah)
+const FESTIVALS = [
+  { key: "cny-2027", label: "CNY", name: "CHINESE NEW YEAR 2027." },
+  { key: "raya-2027", label: "Hari Raya Aidilfitri", name: "HARI RAYA AIDILFITRI 2027." },
+  { key: "deepavali-2026", label: "Deepavali", name: "DEEPAVALI 2026." },
+];
+
 const API_URL = process.env.NEXT_PUBLIC_PDF_API_URL ?? "https://grkfireworks.com";
 const API_KEY =
   process.env.NEXT_PUBLIC_PDF_API_KEY ??
@@ -75,7 +82,7 @@ const inputCls =
 
 export default function SuratForm() {
   const [f, setF] = useState({
-    festivalType: "cny-2026",
+    festivalType: "cny-2027",
     fullName: "",
     icNumber: "",
     occupation: "",
@@ -117,16 +124,13 @@ export default function SuratForm() {
     setErrMsg("");
     try {
       const chosen = IPDS.find((i) => i.id === f.ipd);
-      // Pilih surat kebenaran ikut perayaan — WAJIB hantar senarai `templates`,
-      // kalau tidak backend merge SEMUA (termasuk surat CNY + Raya sekali).
-      // Susunan & set ini mesti sama dengan SPA asal.
-      const festivalLetter =
-        f.festivalType === "cny-2026" ? "surat-kebenaran-cny" : "surat-kebenaran-raya";
+      // Surat kebenaran kini SATU template dgn slot nama perayaan (CNY/Raya/Deepavali).
+      // WAJIB hantar senarai `templates`, kalau tidak backend merge SEMUA template.
       const templates = [
         "permohonan-ipd",
         "lampiran-a",
         "surat-agen",
-        festivalLetter,
+        "surat-kebenaran",
         "surat-kelulusan",
         "borang-e-1",
         "borang-e-2",
@@ -136,6 +140,7 @@ export default function SuratForm() {
       const payload = {
         ...f,
         templates,
+        festivalName: (FESTIVALS.find((x) => x.key === f.festivalType) || {}).name || "",
         ipdName: f.ipd === "other" ? f.ipdOther : chosen ? ipdLabel(chosen) : "",
         ipdAddress: chosen?.address ?? "",
         ipdCity: chosen?.city ?? "",
@@ -178,8 +183,11 @@ export default function SuratForm() {
         </p>
         <Field label="Permohonan Untuk" required hint="Sistem akan auto pilih Surat Kebenaran yang bersesuaian dengan perayaan.">
           <select value={f.festivalType} onChange={set("festivalType")} className={inputCls}>
-            <option value="cny-2026">CNY 2026</option>
-            <option value="raya-2026">Raya Aidilfitri 2026</option>
+            {FESTIVALS.map((x) => (
+              <option key={x.key} value={x.key}>
+                {x.label}
+              </option>
+            ))}
           </select>
         </Field>
       </fieldset>
