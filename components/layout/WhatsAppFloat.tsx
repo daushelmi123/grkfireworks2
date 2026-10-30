@@ -1,3 +1,6 @@
+"use client";
+
+import { usePathname } from "next/navigation";
 import { WHATSAPP, type Lang } from "@/lib/seo";
 
 export default function WhatsAppFloat({ lang }: { lang: Lang }) {
@@ -7,6 +10,9 @@ export default function WhatsAppFloat({ lang }: { lang: Lang }) {
       : "Hi GRK, I'd like to ask about your fireworks products"
   );
   const label = lang === "ms" ? "WhatsApp kami" : "WhatsApp us";
+  const pathname = usePathname();
+  // Halaman /whatsapp sudah ada butang WhatsApp sendiri — elak bertindih.
+  if (pathname?.endsWith("/whatsapp")) return null;
 
   return (
     <a

@@ -104,6 +104,7 @@ export default function SuratForm() {
     ipdOther: "",
   });
   const [status, setStatus] = useState<"idle" | "sending" | "ok" | "err">("idle");
+  const [result, setResult] = useState<{ url?: string; name?: string } | null>(null);
   const [errMsg, setErrMsg] = useState("");
 
   const set = (k: string) => (e: React.ChangeEvent<HTMLInputElement | HTMLSelectElement>) =>
@@ -153,6 +154,9 @@ export default function SuratForm() {
       });
       const data = await r.json().catch(() => ({}));
       if (!r.ok) throw new Error(data.message || `HTTP ${r.status}`);
+      const files = Array.isArray(data.files) ? data.files : [];
+      const main = files.find((x: { name?: string }) => (x?.name || "").includes("merged")) || files[0] || null;
+      setResult(main ? { url: main.url, name: main.name } : null);
       setStatus("ok");
     } catch (err) {
       setStatus("err");
@@ -165,10 +169,39 @@ export default function SuratForm() {
       <div className="bg-card border border-gold/40 rounded-2xl p-8 text-center">
         <p className="text-4xl mb-3">✅</p>
         <h2 className="text-xl font-bold mb-2">Permohonan Diterima!</h2>
-        <p className="text-sm text-muted-foreground">
-          PDF automatik dijana dalam masa 10-15 minit. Kami akan hubungi anda melalui
-          WhatsApp dengan pautan muat turun dan arahan seterusnya.
-        </p>
+        {result?.url ? (
+          <>
+            <p className="text-sm text-muted-foreground">
+              Dokumen anda telah dijana. Muat turun sekarang — pautan ini sah lebih
+              kurang 10 minit.
+            </p>
+            <a
+              href={result.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              download
+              className="mt-5 inline-block bg-gold text-gold-foreground font-bold px-10 py-4 rounded-xl hover:brightness-110"
+            >
+              ⬇ Muat Turun PDF
+            </a>
+          </>
+        ) : (
+          <p className="text-sm text-muted-foreground">
+            PDF sedang dijana. Kami akan hubungi anda melalui WhatsApp dengan pautan
+            muat turun dan arahan seterusnya.
+          </p>
+        )}
+        <button
+          type="button"
+          onClick={() => {
+            setStatus("idle");
+            setResult(null);
+            window.scrollTo({ top: 0, behavior: "smooth" });
+          }}
+          className="mt-5 block mx-auto text-xs font-bold uppercase tracking-wider text-muted-foreground hover:text-gold"
+        >
+          Hantar Permohonan Baru
+        </button>
       </div>
     );
   }
